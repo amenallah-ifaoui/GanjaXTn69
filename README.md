@@ -4,9 +4,9 @@
 
 18-year-old self-taught developer building products end to end — backend APIs, frontends, and AI features that ship. I prototype fast, test before I build, and care about software people actually use.
 
-🚀 **Currently building [TryCopy](#)** — an AI tool that generates authentic, conversion-focused ad copy in Tunisian Darija for COD e-commerce sellers.
+🚀 **Currently building [TryCopy](https://trycopy.app)** — an AI tool that generates authentic, conversion-focused ad copy in Tunisian Darija for COD e-commerce sellers.
 
-🎓 Starting a 5-year engineering program at **TEK-UP University** (Sept 2026).
+🤖 Deep into **applied AI** — building real systems around LLMs, not just calling APIs. It's where I spend most of my time and where I'm headed.
 
 ---
 
@@ -33,11 +33,11 @@
 ### What I'm focused on
 
 - Shipping **TryCopy** to real paying users
-- Building LLM-powered features into production full-stack apps
-- Open to **freelance and remote** work
+- Building LLM-powered features and AI systems into production apps
+- Open to **freelance, internships, and remote** opportunities
 
 ---
 
 ### Connect
 
-[LinkedIn](your-linkedin-url) · [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/amen-allah-ifaoui-1293223bb/?skipRedirect=true) · [Email](mailto:aifaouiameen@gmail.com)
